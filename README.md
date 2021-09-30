@@ -2,4 +2,4 @@
 
 This collection is a part of journey I learning Python programming. Each assignment during 7 weeks learning and practice.
 
-Thanks DATACracy Program for all supported to me.
+Assignment forked by DATACracy Program Atom Class
